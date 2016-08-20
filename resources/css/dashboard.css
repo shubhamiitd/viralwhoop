@@ -1,0 +1,26 @@
+.navbar-left li {
+    color: black;
+}
+
+.navbar-left li:hover {
+    background-color: #c6c0c0;
+}
+
+.nav-pills li{
+    padding-left: : 50px !important;
+}
+
+.nav-pills button {
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.nav-pills button:hover {
+    background-color: #008CBA;
+    color: white;
+}

@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+body {
+    background: #F3F3F3;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.login-box-logo {
+    background: black;
+}
+.form-control{border-radius:0;}
+.navbar {
+    background: white;
+}
+
+.form1 {
+	min-height:90vh;
+    margin-top: 50px;
+    background: #F3F3F3;
+	padding-left:15px;
+}
+.login_btn{margin-top:20px; height:35px; font-weight:2px; font-size:1.1em; border-radius:3px; border:0;background:#1E8FC6;color:white;}
+.heading {
+    text-align: center;
+    background: #34383C;
+    color: white;
+}
+label{font-weight:200 !important; padding-left:10px !important;}
+textarea:focus,input:focus {
+    outline: none;
+}
+
+*:focus {
+    outline: none;
+}
+footer{height:50px; bottom:0;left: 0; position: relative; right: 0; background:white; }
+
+	.postpara{overflow:hidden; width:100%; white-space:nowrap; text-overflow:ellipsis;}
